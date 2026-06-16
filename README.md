@@ -161,8 +161,8 @@ A total of **10 real-world images** were tested.
 MobileNetV2-CIFAR10-Image-Classification
 │
 ├── README.md
-├── MobileNetV2_CIFAR10.ipynb
-├── MobileNetV2_CIFAR10_Project_Report.pdf
+├── mobilenetv2-cifar10-project-report.pdf
+├── mobilenetv2-cifar10.ipynb
 ```
 
 ### File Description
@@ -170,8 +170,8 @@ MobileNetV2-CIFAR10-Image-Classification
 | File Name                              | Description                                                                                                             |
 | -------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
 | README.md                              | Project documentation and performance summary                                                                           |
-| MobileNetV2_CIFAR10.ipynb              | Complete notebook containing preprocessing, training, evaluation, confusion matrix analysis, and external image testing |
-| MobileNetV2_CIFAR10_Project_Report.pdf | Detailed project report including methodology, implementation, results, and conclusions                                 |
+| mobilenetv2-cifar10-project-report.pdf | Detailed project report including methodology, implementation, results, and conclusions                                 |
+| mobilenetv2-cifar10.ipynb              | Complete notebook containing preprocessing, training, evaluation, confusion matrix analysis, and external image testing |
 
 ---
 
